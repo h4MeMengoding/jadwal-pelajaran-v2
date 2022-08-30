@@ -36,7 +36,7 @@ const Home = ({
       <title className={styles.title}>Jadwal Pelajaran XI MIPA 5</title>
       <meta
         name="description"
-        content="Daftar jadwal pelajaran SMAN 11 Semarang"
+        content="Jadwal Pelajaran Slima"
       />
     </Head>
     <header className={styles.header}>
