@@ -51,7 +51,7 @@ const Home = ({
       >
         {classLists.map((className: string) => (
           <li key={className} className={styles.listItem}>
-            <Link href={`/kelas/${className}`}>
+            <Link href={`/class/${className}`}>
               <a>Jadwal Kelas {className.replace("-", " ")}</a>
             </Link>
           </li>
