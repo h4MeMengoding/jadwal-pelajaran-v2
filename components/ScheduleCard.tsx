@@ -120,7 +120,7 @@ export function ScheduleCard({
             <table className={`primary ${styles.table}`}>
               <thead>
                 <tr>
-                  <th>#</th>
+                  <th>Jam</th>
                   <th>Mapel</th>
                   <th>Waktu</th>
                 </tr>
