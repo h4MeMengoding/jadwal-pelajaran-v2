@@ -17,7 +17,7 @@ const ThemeColorChanger = () => {
       <Head>
         <meta
           name="theme-color"
-          content={isDarkTheme || false ? "#0d0d0d" : "#fff"}
+          content={isDarkTheme || false ? "#0d0d0d" : "#ff91a4"}
         />
       </Head>
     </>
