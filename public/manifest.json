@@ -5,8 +5,8 @@
     "orientation": "portrait",
     "scope": "/",
     "start_url": "/",
-    "name": "FAFA APP",
-    "short_name": "FAFA APP",
+    "name": "Jadwal Pelajaran",
+    "short_name": "Jadwal Pelajaran",
     "description": "Web App Slima",
     "icons": [
         {
