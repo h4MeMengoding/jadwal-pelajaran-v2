@@ -75,5 +75,45 @@
         ]
       }
     ]
+  },
+  {
+    "className": "XI MIPA 5 - PTS",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "BAHASA PRANCIS",
+          "PENDIDIKAN AGAMA"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "MATEMATIKA",
+          "SENI BUDAYA"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "BAHASA INGGRIS",
+          "PKWU"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "BAHASA INDONESIA",
+          "FISIKA"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "MATEMATIKA P",
+          "BIOLOGI"
+        ]
+      }
+    ]
   }
 ]
