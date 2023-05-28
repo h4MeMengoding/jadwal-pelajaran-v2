@@ -1,79 +1,43 @@
 [
-  {
-    "className": "XI MIPA 5",
-    "schedule": [
-      {
-        "day": 1,
-        "lessons": [
-          "UPACARA",
-          "B. INDO",
-          "B. INDO",
-          "MAT P",
-          "MAT P",
-          "FISIKA",
-          "FISIKA",
-          "KIMIA",
-          "KIMIA",
-          "SEJARAH",
-          "SEJARAH"
-        ]
-      },
-      {
-        "day": 2,
-        "lessons": [
-          "MAT P",
-          "MAT P",
-          "B. INDO",
-          "B. INDO",
-          "SB",
-          "SB",
-          "FISIKA",
-          "FISIKA",
-          "PKWU",
-          "PKWU"
-        ]
-      },
-      {
-        "day": 3,
-        "lessons": [
-          "MAT W",
-          "MAT W",
-          "PPKN",
-          "PPKN",
-          "BIOLOGI",
-          "BIOLOGI",
-          "KIMIA",
-          "KIMIA",
-          "B. JAWA",
-          "B. JAWA"
-        ]
-      },
-      {
-        "day": 4,
-        "lessons": [
-          "PENJAS",
-          "PENJAS",
-          "PENJAS",
-          "BIOLOGI",
-          "BIOLOGI",
-          "B. PRANC",
-          "B. PRANC",
-          "P. AGAMA",
-          "P. AGAMA",
-          "P. AGAMA"
-        ]
-      },
-      {
-        "day": 5,
-        "lessons": [
-          "MAT W",
-          "MAT W",
-          "B. PRANC",
-          "B. PRANC",
-          "B. ING",
-          "B. ING"
-        ]
-      }
-    ]
-  }
-]
+    {
+      "className": "XI MIPA 5",
+      "schedule": [
+        {
+          "day": 1,
+          "lessons": [
+            "PRANCIS",
+            "AGAMA"
+          ]
+        },
+        {
+          "day": 2,
+          "lessons": [
+            "MATEMATIKA W",
+            "SB"
+          ]
+        },
+        {
+          "day": 3,
+          "lessons": [
+            "BAHASA INGGRIS",
+            "PKWU"
+          ]
+        },
+        {
+          "day": 4,
+          "lessons": [
+            "LIBUR",
+            "LIBUR"
+          ]
+        },
+        {
+          "day": 5,
+          "lessons": [
+            "BAHASA INDONESIA",
+            "KIMIA"
+          ]
+        }
+      ]
+    }
+  ]
+  
